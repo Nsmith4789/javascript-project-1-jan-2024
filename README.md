@@ -18,10 +18,10 @@ You check the checkmarks for the facial features of a person, and the program gu
 
 ## Roadmap
 
-- [ ] index.html
-- [ ] script.js
+- [x] index.html
+- [x] script.js
 - [ ] 
-- [ ] Bootstrap included
+- [x] Bootstrap included
 
 ## Contact
 
